@@ -1,0 +1,55 @@
+﻿service name full,subcategories,categories,time,cost,reliability,availability
+shippingToAustria(standard),shippingToAustria,shipping,,5.95 €,,easy
+shippingToAustria(bulky goods),shippingToAustria,shipping,,5.95 €,,easy
+shippingToAustria(bikes),shippingToAustria,shipping,,89.00 €,,easy
+shippingToBelgium(standard),shippingToBelgium,shipping,,5.95 €,,easy
+shippingToBelgium(bulky goods),shippingToBelgium,shipping,,5.95 €,,easy
+shippingToBelgium(bikes),shippingToBelgium,shipping,,89.00 €,,easy
+shippingToDenmark(standard),shippingToDenmark,shipping,,9.95 €,,easy
+shippingToDenmark(bulky goods),shippingToDenmark,shipping,,19.95 €,,easy
+shippingToDenmark(bikes),shippingToDenmark,shipping,,89.00 €,,easy
+shippingToFinland(standard),shippingToFinland,shipping,,9.95 €,,easy
+shippingToFinland(bulky goods),shippingToFinland,shipping,,29.95 €,,easy
+shippingToFinland(bikes),shippingToFinland,shipping,,89.00 €,,easy
+shippingToFrance(standard),shippingToFrance,shipping,,9.95 €,,easy
+shippingToFrance(bulky goods),shippingToFrance,shipping,,9.95 €,,easy
+shippingToFrance(bikes),shippingToFrance,shipping,,89.00 €,,easy
+shippingToItaly(standard),shippingToItaly,shipping,,9.95 €,,easy
+shippingToItaly(bulky goods),shippingToItaly,shipping,,19.95 €,,easy
+shippingToItaly(bikes),shippingToItaly,shipping,,n/a,,easy
+shippingToNetherlands(standard),shippingToNetherlands,shipping,,5.95 €,,easy
+shippingToNetherlands(bulky goods),shippingToNetherlands,shipping,,5.95 €,,easy
+shippingToNetherlands(bikes),shippingToNetherlands,shipping,,89.00 €,,easy
+shippingToSpain(standard),shippingToSpain,shipping,,9.95 €,,easy
+shippingToSpain(bulky goods),shippingToSpain,shipping,,19.95 €,,easy
+shippingToSpain(bikes),shippingToSpain,shipping,,89.00 €,,easy
+shippingToSwitzerland(standard),shippingToSwitzerland,shipping,,14.95 €,,easy
+shippingToSwitzerland(bulky goods),shippingToSwitzerland,shipping,,24.95 €,,easy
+shippingToSwitzerland(bikes),shippingToSwitzerland,shipping,,n/a,,easy
+shippingToGermany(standard),shippingToGermany,shipping,,3.95 €,,easy
+shippingToGermany(bulky goods),shippingToGermany,shipping,,3.95 €,,easy
+shippingToGermany(bikes),shippingToGermany,shipping,,49.00 €,,easy
+shippingToGermany (Cash on delivery)(bulky goods),shippingToGermany (Cash on delivery),shipping,,8.95 €,,easy
+shippingToGermany (Cash on delivery)(bikes),shippingToGermany (Cash on delivery),shipping,,8.95 €,,easy
+shippingToGermany (Cash on delivery)(standard),shippingToGermany (Cash on delivery),shipping,,n/a,,easy
+BikeStripAndReassembly,,maintenance,,,high,n/a
+BikeFrameCleaningAndWaxing,,maintenance,,,high,n/a
+DriveTrain(CranksetCassetteChainFront&RearDerailleursWheelset)Un-AssemblyAndRe-Assembly,,maintenance,,,high,n/a
+CheckDerailleurHangerAndDerailleurCage,,maintenance,,,high,n/a
+CheckCleanAndLubricateShifterCableOrHousing,,maintenance,,,high,n/a
+CheckCleanAndLubricateBrakeCableOrHousing,,maintenance,,,high,n/a
+CheckAndTuneGearShiftingBrakeSetOrLeversOrPads,,maintenance,,,high,n/a
+CheckAndInflateTyresOrInnerTube,,maintenance,,,high,n/a
+De-GreaseAndLubricateChain,,maintenance,,,high,n/a
+De-GreaseCassetteChain-RingFrontAndRearDerailleurs,,maintenance,,,high,n/a
+WheelTruing,,maintenance,,,high,n/a
+RepackHeadsetBearings,,maintenance,,,high,n/a
+RepackWheel-SetBearings,,maintenance,,,high,n/a
+RepackBottomBracketBearings,,maintenance,,,high,n/a
+pay by Credit card,,Payment methods,quick,,,easy
+pay by Paypal,,Payment methods,quick,,,easy
+pay by Amazon pay,,Payment methods,quick,,,easy
+pay by Cash on delivery,,Payment methods,quick,,,easy
+online package tracking,,Package tracking,quick,,,
+Revocation,,Revocation,average,,average,
+Returns,,Returns,average,,average,
