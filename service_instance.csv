@@ -1,7 +1,7 @@
 ﻿service_name,categories
 shipping,service
 maintenance,service
-Payment methods,service
+Payment method,service
 Package tracking,service
 Revocation,service
 Returns,service
