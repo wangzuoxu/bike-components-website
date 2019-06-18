@@ -4,5 +4,6 @@ This reposite store the datasets from a website "bike-components" and the relati
 
 The aim of this project is to represent and elicit lacit requirements from heterogeneous data resources.
 
+**IT IS STILL UNDER CONSTRUCTION!!!**
 
 
