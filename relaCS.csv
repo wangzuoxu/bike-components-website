@@ -1,0 +1,19 @@
+﻿rainy,saddle is not comfortable
+rainy,shipping
+rainy,install
+rainy,replaces
+rainy,maintenance
+rainy,returns
+rainy,payment method
+saddle is not comfortable,install
+shipping,assemble
+shipping,replace
+shipping,returns
+shipping,payment method
+assemble,install
+install,replace
+install,returns
+install,payment method
+replace,maintan
+replace,returns
+returns,payment method
